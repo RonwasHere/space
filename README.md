@@ -2,6 +2,8 @@
 
 Flutter project UI Animation Furniture dari bwa
 
+video program = https://mega.nz/file/AeYkTapQ#a-9u2SISpA0pWNQXGCiXK8gJc9YOyHF8o-K-hpAY7v0
+
 <img src="https://user-images.githubusercontent.com/97945445/201601183-2e4f6e35-53ca-4ce1-b505-7244ebec357f.png" width="375" height="812" />
 <img src="https://user-images.githubusercontent.com/97945445/201601196-9b06a18c-1105-4ae0-a909-8680cc4807bf.png" width="375" height="812" />
 <img src="https://user-images.githubusercontent.com/97945445/201601209-2dbde851-130e-4877-b8fc-12313a79158b.png" width="375" height="812" /> 
